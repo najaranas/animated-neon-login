@@ -1,0 +1,26 @@
+body{
+    background-color: #555;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+}
+i{
+    width: 50%;
+    background: blue;
+    height: 5px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+
+
+
+margin: 20px;
